@@ -1,0 +1,16 @@
+D:\林婧虹\学生管理系统\Demo\bin\Debug\Demo.exe.config
+D:\林婧虹\学生管理系统\Demo\bin\Debug\Demo.exe
+D:\林婧虹\学生管理系统\Demo\bin\Debug\Demo.pdb
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.Form1.resources
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.exe
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.pdb
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.Form2.resources
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.Form21.resources
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.Form3.resources
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.Form31.resources
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.Form4.resources
+D:\林婧虹\学生管理系统\Demo\obj\Debug\Demo.Form41.resources
